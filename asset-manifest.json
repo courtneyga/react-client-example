@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-client-example/static/css/main.e6c13ad2.css",
+    "main.js": "/react-client-example/static/js/main.505b9c2f.js",
+    "react-syntax-highlighter/refractor-import.js": "/react-client-example/static/js/react-syntax-highlighter/refractor-import.be5804a4.chunk.js",
+    "static/js/787.aff05db8.chunk.js": "/react-client-example/static/js/787.aff05db8.chunk.js",
+    "static/media/Debugger.png": "/react-client-example/static/media/Debugger.f1d6a0d141c8dcdab2dd.png",
+    "static/media/SourceSettings.png": "/react-client-example/static/media/SourceSettings.6593ddd90abae11abaa6.png",
+    "index.html": "/react-client-example/index.html",
+    "main.e6c13ad2.css.map": "/react-client-example/static/css/main.e6c13ad2.css.map",
+    "main.505b9c2f.js.map": "/react-client-example/static/js/main.505b9c2f.js.map",
+    "refractor-import.be5804a4.chunk.js.map": "/react-client-example/static/js/react-syntax-highlighter/refractor-import.be5804a4.chunk.js.map",
+    "787.aff05db8.chunk.js.map": "/react-client-example/static/js/787.aff05db8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.505b9c2f.js"
+  ]
+}
